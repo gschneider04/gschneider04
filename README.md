@@ -3,10 +3,10 @@
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=gschneider04&show_icons=true&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gschneider04&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschneider04&layout=compact&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschneider04&layout=compact&theme=onedark" />
 </a>
 </div>
 
