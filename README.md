@@ -1,5 +1,7 @@
-### Hello World!! I'm Gustavo Schneider 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=66E4F2&s">
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Gustavo+Schneider;I+am+19+years+old;I+am+from+Brazil)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
